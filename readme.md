@@ -7,3 +7,5 @@ Clone this repository:
 link to use: https://github.com/IlyaNesterow/AI-models.git
 
 Use it github Desktop or Git CLI
+
+File with dateset: Train.csv
